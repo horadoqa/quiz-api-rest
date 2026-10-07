@@ -17,8 +17,7 @@ Um quiz simples com 30 perguntas de múltipla escolha. A cada resposta, o jogo m
 ## Tecnologias
 
 - *HTML, CSS e JavaScript* - Contruindo a página
-- *http-server* — servidor local simples, usado só para servir o jogo durante os testes
-- *GitHub Actions* — roda os testes automaticamente a cada push
+- *GitHub Actions* — Publicando o projeto
 
 
 ## Estrutura do projeto
