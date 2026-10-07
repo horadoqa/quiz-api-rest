@@ -30,8 +30,8 @@ Um quiz simples com 30 perguntas de múltipla escolha. A cada resposta, o jogo m
 │   ├── script.js
 │   └── styles.css
 └── index.html
-├── 📁 .github/workflows/tests.yml
+├── 📁 .github/workflows/static.yml
 └── README.md 
 ```
 
-## Como acessar o jogo: 
+## Como acessar o jogo: https://horadoqa.github.io/quiz-api-rest/
